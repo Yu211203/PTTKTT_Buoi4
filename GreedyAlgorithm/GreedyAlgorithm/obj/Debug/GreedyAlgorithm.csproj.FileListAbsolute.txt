@@ -1,0 +1,8 @@
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe.config
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.exe
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\bin\Debug\GreedyAlgorithm.pdb
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.AssemblyReference.cache
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.SuggestedBindingRedirects.cache
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.csproj.CoreCompileInputs.cache
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.exe
+E:\HOCKI6\TH_LTM\GreedyAlgorithm\GreedyAlgorithm\obj\Debug\GreedyAlgorithm.pdb
